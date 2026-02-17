@@ -1,16 +1,7 @@
-# myapp
+Aplicacion Electro (Electronicos)
 
-A new Flutter project.
+### WEB
+<img width="611" height="798" alt="image" src="https://github.com/user-attachments/assets/abef527b-a4d7-4688-a5a2-f4489b41cbcb" />
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Android
+<img width="443" height="770" alt="image" src="https://github.com/user-attachments/assets/150bc771-d8e6-4811-ae5b-3c1ff9274714" />
